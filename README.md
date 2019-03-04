@@ -6,8 +6,12 @@
 
 It is a basic calculator app for iOS compatible to any layout and screen size.
 
+### Screenshots
+
+Portrait -
 ![Alt text](https://github.com/Deepesh22/Calculator-iOS/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-03-04%20at%2012.51.51.png "portrait")
 
+Landscape
 ![Alt text](https://github.com/Deepesh22/Calculator-iOS/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-03-04%20at%2012.52.59.png "landscape")
 
 ### Todos
